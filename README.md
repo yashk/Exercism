@@ -1,2 +1,2 @@
 # Exercism
-My Exercism journey 
+My Exercism journey - starting
